@@ -1,2 +1,2 @@
 # Flask_API
-Flask ApI with SQLALCHEMY and POSTMAN app
+Flask API with SQLALCHEMY and POSTMAN app
